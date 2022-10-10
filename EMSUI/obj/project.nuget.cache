@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eRRBIb7jFQzQ+Mua9qNOR7busvTU9vYPktHitc8StsxT+U5Bddz7OwaQuZ1W57O25hTa7zHxx7MCmo1PghsSg==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Mehroz\\Demo\\API\\EducationManagementSystem\\EMSUI\\EMSUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohd_Asif3\\.nuget\\packages\\microsoft.typescript.msbuild\\4.8.4\\microsoft.typescript.msbuild.4.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}
